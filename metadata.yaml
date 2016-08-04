@@ -1,0 +1,39 @@
+_repo: Where-Angels-Fear-to-Tread_2948
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forster, E. M. (Edward Morgan)
+    alias: Forster, Edward Morgan
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '975'
+    url: http://www.gutenberg.org/2009/agents/975
+    wikipedia: http://en.wikipedia.org/wiki/E._M._Forster
+description: "Where Angels Fear to Tread (1905) is a novel by E. M. Forster, originally\
+  \ entitled Monteriano. The title comes from a line in Alexander Pope's An Essay\
+  \ on Criticism: \"For fools rush in where angels fear to tread\".\nIn 1991 it was\
+  \ made into a film by Charles Sturridge, starring Rupert Graves, Giovanni Guidelli,\
+  \ Helen Mirren, Helena Bonham Carter, and Judy Davis. An opera based on the novel\
+  \ by Mark Weiser was premiered at the Peabody Institute of Music in 1999, and received\
+  \ its professional premiere at Opera San Jose in 2015.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2001-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2948'
+  wikidata: Q7993159
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle class -- England -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcsh 'Culture conflict -- Fiction'
+- GITenberg
+title: Where Angels Fear to Tread
+url: http://www.gutenberg.org/ebooks/2948
+wikipedia:
+- https://en.wikipedia.org/wiki/Where_Angels_Fear_to_Tread
+- https://it.wikipedia.org/wiki/Monteriano
